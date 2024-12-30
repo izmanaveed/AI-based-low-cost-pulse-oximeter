@@ -53,10 +53,13 @@ Training loss:
 ![image](https://github.com/user-attachments/assets/ce83f48e-7c2a-4bef-8961-c28083830529)
 
 #### Test set
+
 Confusion matrix:
+
 ![image](https://github.com/user-attachments/assets/35eed6e0-5b7e-4a49-8914-e4f1de4e02a5)
 
 Prediction on arduino input:
+
 ![image](https://github.com/user-attachments/assets/372db8f7-9670-4c23-8e5e-260b9eb94106)
 
 ## Conclusion
