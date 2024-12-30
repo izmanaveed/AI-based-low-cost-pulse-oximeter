@@ -43,10 +43,13 @@ iii. Real-time readings from oximeter were given as input to the classification 
 
 ### Classification Algorithm
 #### Training
+
 Training accuracy:
+
 ![image](https://github.com/user-attachments/assets/6bfc3f94-c372-4c59-ac13-98fd9a7d1931)
 
 Training loss:
+
 ![image](https://github.com/user-attachments/assets/ce83f48e-7c2a-4bef-8961-c28083830529)
 
 #### Test set
